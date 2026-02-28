@@ -1,15 +1,17 @@
-# C. Pérez - Portfolio Website
+# Welcome to my GitHub profile 
 
-Personal portfolio and blog showcasing my work in software engineering, DevOps, and  AI research.
+I'll be showcasing some of my work in software engineering, DevOps, and  AI research.
 
 ## About
 
-I'm a Software Engineer specializing in CI/CD pipeline orchestration and DevOps practices. Currently completing my Master's degree in Industrial Engineering with a focus on ethical machine learning and artificial intelligence.
+I'm a Software Engineer specializing in CI/CD pipeline orchestration and DevOps practices. Currently completing my Master's degree in Industrial Engineering. 
 
 This site serves as a platform to share my projects, insights, and research in:
+
 - DevOps & CI/CD automation
 - Ethical AI and responsible machine learning
 - Software engineering best practices
+- Other cool tech stuff :) 
 
 
 ## Contact
