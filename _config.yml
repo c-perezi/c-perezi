@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: C. Pérez | Programming Portfolio 
+title: Carla N. Pérez | Software Engineer & AI Portfolio
 
 # Your name to show in the footer
-author: C. Pérez 
+author: Carla N. Pérez 
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,8 @@ author: C. Pérez
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "projects"
+  Blog: "index"
 
 ################
 # --- Logo --- #
@@ -57,7 +55,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Software Engineer exploring ethical AI and machine learning
 
 ###########################
 # --- General options --- #
@@ -99,7 +97,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "artificial intelligence,machine learning,ethical AI,DevOps,CI/CD,software engineering,industrial engineering"
 
 ######################################
 # --- Colours / background image --- #

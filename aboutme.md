@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software Engineer & AI Enthusiast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Carla N. Pérez, a Software Engineer specializing in DevOps and CI/CD pipeline orchestration. I'm currently completing my Master's degree in Industrial Engineering, where I focus on time series analysis and forecasting. I also have great interest in the intersection of technology and ethical considerations in AI systems.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Interests
 
-What else do you need?
+I'm passionate about building robust software systems while ensuring that AI and machine learning technologies are developed and deployed ethically. I believe that as engineers, we have a responsibility to consider the broader impact of the systems we create.
 
-### My story
+### Let's Connect
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to reach out through [GitHub](https://github.com/c-perezi), [LinkedIn](https://linkedin.com/in/cnperez), or [schedule a chat](https://calendly.com/c-perezi).
